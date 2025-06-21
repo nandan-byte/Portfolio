@@ -4,7 +4,7 @@
     --text-primary: #333333; 
     --text-secondary: #555555; 
     --text-on-dark: #ffffff; 
-    --accent-primary: #666666; /* Primary grey accent for buttons/links */
+    --accent-primary: #666666; 
     --accent-secondary: #888888; /* Lighter grey accent for hover/secondary */
     --border-color: #cccccc; /* Border for elements */
     --shadow-light: rgba(0, 0, 0, 0.1);
