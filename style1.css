@@ -1,11 +1,9 @@
-/* Custom Properties (CSS Variables) - Define your color palette */
 :root {
-    /* Light Mode Colors */
-    --bg-primary: #f0f0f0; /* Light grey background */
-    --bg-secondary: #ffffff; /* White for cards/sections */
-    --text-primary: #333333; /* Dark grey text */
-    --text-secondary: #555555; /* Slightly lighter dark grey for subtle text */
-    --text-on-dark: #ffffff; /* White text for accents (used on buttons, icons) */
+    --bg-primary: #f0f0f0; 
+    --bg-secondary: #ffffff; 
+    --text-primary: #333333; 
+    --text-secondary: #555555; 
+    --text-on-dark: #ffffff; 
     --accent-primary: #666666; /* Primary grey accent for buttons/links */
     --accent-secondary: #888888; /* Lighter grey accent for hover/secondary */
     --border-color: #cccccc; /* Border for elements */
