@@ -21,7 +21,7 @@
 }
 
 body.dark-mode {
-    --bg-primary: #1a1a1a; /* Dark grey background */
+    --bg-primary: #1a1a1a;
     --bg-secondary: #2c2c2c; /* Darker grey for cards/sections */
     --text-primary: #e0e0e0; /* Light grey text */
     --text-secondary: #bbbbbb; /* Slightly darker light grey for subtle text */
