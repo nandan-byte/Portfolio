@@ -5,8 +5,8 @@
     --text-secondary: #555555; 
     --text-on-dark: #ffffff; 
     --accent-primary: #666666; 
-    --accent-secondary: #888888; /* Lighter grey accent for hover/secondary */
-    --border-color: #cccccc; /* Border for elements */
+    --accent-secondary: #888888; 
+    --border-color: #cccccc; 
     --shadow-light: rgba(0, 0, 0, 0.1);
     --shadow-dark: rgba(0, 0, 0, 0.2);
 
@@ -20,7 +20,6 @@
     --cursor-outline-color: black;
 }
 
-/* Dark Mode Colors - Applied when .dark-mode class is present on body */
 body.dark-mode {
     --bg-primary: #1a1a1a; /* Dark grey background */
     --bg-secondary: #2c2c2c; /* Darker grey for cards/sections */
