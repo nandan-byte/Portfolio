@@ -30,5 +30,19 @@ This website showcases my projects, skills, and contact information. It's design
 
 ---
 
-## 📁 Folder Structure
+## 📬 Contact
+
+Feel free to reach out!
+
+- 🔗 **LinkedIn**: [linkedin.com/in/nandan-byte](https://linkedin.com/in/nandan-byte) *(if available)*
+- ✉️ **Email**: [nandandeshamukh9845@gmail.com]
+- 🌐 **Website**: https://nandan-byte.netlify.app/
+
+---
+
+## 📄 License
+
+This project is open-source and free to use.  
+Licensed under the [MIT License](LICENSE).
+
 
