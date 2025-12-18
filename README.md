@@ -34,7 +34,7 @@ This website showcases my projects, skills, and contact information. It's design
 
 Feel free to reach out!
 
-- 🔗 **LinkedIn**: [linkedin.com/in/nandan-byte](https://linkedin.com/in/nandan-byte) *(if available)*
+- 🔗 **LinkedIn**: [linkedin.com/in/nandan-byte](https://linkedin.com/in/nandan-byte)
 - ✉️ **Email**: [nandandeshamukh9845@gmail.com]
 - 🌐 **Website**: https://nandan-byte.netlify.app/
 
